@@ -1,2 +1,4 @@
-# new-things-every-day-1
-New things every day #1
+import datetime
+
+now = datetime.datetime.now()
+print("Current date and time:", now)
